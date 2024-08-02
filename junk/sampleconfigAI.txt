@@ -1,0 +1,8 @@
+{   
+    "mainlink": "https://www.nhatot.com/mua-ban-bat-dong-san-tp-ho-chi-minh",
+    "link": ".AdItem_adItem__gDDQT"
+}
+{
+  "mainlink": "https://alonhadat.com.vn/nha-dat/can-ban.html",
+  "link": ".vip"
+}

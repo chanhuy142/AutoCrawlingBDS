@@ -1,0 +1,39 @@
+{   
+    "mainlink":"https://batdongsan.com.vn/nha-dat-ban/",
+    "link": ".js__product-link-for-product-id",
+    "name": ".pr-title",
+    "address": ".js__pr-address",
+    "price": ".value",
+    "group": {
+        "name": ".re__pr-specs-content-item-title",
+        "value": ".re__pr-specs-content-item-value",
+        "remap": {
+            "Pháp lý": "legal",
+            "Diện tích": "area"
+        }
+    }
+}
+
+{   
+    "mainlink": "https://www.nhatot.com/mua-ban-bat-dong-san-tp-ho-chi-minh",
+    "scrollspeed": "100",
+    "link": ".AdItem_adItem__gDDQT",
+    "name": ".AdDecriptionVeh_adTitle__vEuKD",
+    "address": ".fz13",
+    "price": ".AdDecriptionVeh_price__u_N83",
+    "area": "[itemprop='size']",
+    "legal":"[itemprop='property_legal_document']",
+    "ClickAction": ".styles_button__SVZnw"
+
+}
+
+{
+  "mainlink": "https://alonhadat.com.vn/nha-dat/can-ban.html",
+  "link": ".vip",
+  "name": "h1",
+  "address": ".address .value",
+  "price": ".price .value",
+  "area": ".square .value",
+  "legal": "td",
+  "legalid": 15
+}

@@ -1,0 +1,25 @@
+[   
+    {
+        "active": 0,
+        "mainlink":"https://propzy.net/bat-dong-san/page/1/",
+        "link": ".content h3>a"
+    },
+    {   
+        "active": 0,
+        "mainlink": "https://www.nhatot.com/mua-ban-bat-dong-san-tp-ho-chi-minh?page=1",
+        "link": ".AdItem_adItem__gDDQT"
+    },
+    {   
+        "active": 0, 
+        "mainlink": "https://alonhadat.com.vn/nha-dat/can-ban/trang--1.html",
+        "link": ".vip"
+    },
+
+    {
+        "active": 1, 
+        "mainlink":"https://batdongsan.com.vn/nha-dat-ban/p1",
+        "link": ".js__product-link-for-product-id"
+    }
+]
+
+
